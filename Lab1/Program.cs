@@ -1,6 +1,6 @@
 ﻿using System;
 /*
- * Oleksndr Tkach
+ * Oleksandr Tkach
  * number of the score book - 328
  * C2 - 0
  * C3 - 1 
