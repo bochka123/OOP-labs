@@ -1,0 +1,16 @@
+F:\KPI\5 семестр\OOP\Lab2\bin\Debug\net5.0\Lab2.exe
+F:\KPI\5 семестр\OOP\Lab2\bin\Debug\net5.0\Lab2.deps.json
+F:\KPI\5 семестр\OOP\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+F:\KPI\5 семестр\OOP\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+F:\KPI\5 семестр\OOP\Lab2\bin\Debug\net5.0\Lab2.dll
+F:\KPI\5 семестр\OOP\Lab2\bin\Debug\net5.0\Lab2.pdb
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\Lab2.dll
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\Lab2.pdb
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+F:\KPI\5 семестр\OOP\Lab2\obj\Debug\net5.0\ref\Lab2.dll
