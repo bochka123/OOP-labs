@@ -1,0 +1,16 @@
+F:\KPI\5 семестр\OOP\Lab3\bin\Debug\net5.0\Lab3.exe
+F:\KPI\5 семестр\OOP\Lab3\bin\Debug\net5.0\Lab3.deps.json
+F:\KPI\5 семестр\OOP\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.json
+F:\KPI\5 семестр\OOP\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.dev.json
+F:\KPI\5 семестр\OOP\Lab3\bin\Debug\net5.0\Lab3.dll
+F:\KPI\5 семестр\OOP\Lab3\bin\Debug\net5.0\Lab3.pdb
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\Lab3.csproj.AssemblyReference.cache
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfoInputs.cache
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfo.cs
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\Lab3.csproj.CoreCompileInputs.cache
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\Lab3.dll
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\refint\Lab3.dll
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\Lab3.pdb
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\Lab3.genruntimeconfig.cache
+F:\KPI\5 семестр\OOP\Lab3\obj\Debug\net5.0\ref\Lab3.dll
